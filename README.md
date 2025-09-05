@@ -11,11 +11,6 @@ I'm a **Data Analyst** with a strong background in data quality, hypothesis test
   - Data-driven hypothesis and testing in collaboration with product managers
   - Data validation and anomaly detection
 
-- **Programming & Data Engineering**
-  - Python (pandas, numpy, plotly)
-  - Excel automation, knowledge of SAP ERP Financial data modules 
-  - Object-oriented programming (OOP)
-
 - **SQL & Databases**
   - Advanced SQL (window functions, subqueries, optimization)
   - MySQL, PostgreSQL
