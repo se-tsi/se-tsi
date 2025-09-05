@@ -13,7 +13,7 @@ I'm a **Data Analyst** with a strong background in data quality, hypothesis test
 
 - **Programming & Data Engineering**
   - Python (pandas, numpy, plotly)
-  - Excel automation (OpenPyXL, complex transformation logic)
+  - Excel automation, knowledge of SAP ERP Financial data modules 
   - Object-oriented programming (OOP)
 
 - **SQL & Databases**
